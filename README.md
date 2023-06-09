@@ -21,7 +21,7 @@ Follow the steps below to get started with the Speaking Clock project:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/speaking-clock.git
+   git clone https://github.com/bikash-hutait/SPEAKING-CLOCK.git
    ```
 
 2. Navigate to the project directory:
